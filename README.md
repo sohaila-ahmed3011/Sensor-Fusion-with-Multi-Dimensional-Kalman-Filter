@@ -4,10 +4,10 @@ This repository includes the implementation of Multidimensional Kalman filter wi
 
 ## Implemented Algorithm
 <p align="center">
-  <img src="Data/KF.png" width="60%" />
+  <img src="Data/KF.png" width="80%" />
 </p>
 
 ## Result
 <p align="center">
-  <img src="Data/traj.png" width="48%" />
+  <img src="Data/traj.png" width="60%" />
 </p>
